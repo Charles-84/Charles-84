@@ -22,7 +22,3 @@ Ce dépôt contient plusieurs projets Python que j'ai créés pour automatiser d
 ## Remerciements
 
 - Ce projet a été inspiré par les différents tutoriels et projets open-source que j'ai pu trouver en ligne.
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-84)](https://github.com/anuraghazra/github-readme-stats)
