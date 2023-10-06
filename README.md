@@ -22,3 +22,5 @@ Ce dépôt contient plusieurs projets Python que j'ai créés pour automatiser d
 ## Remerciements
 
 - Ce projet a été inspiré par les différents tutoriels et projets open-source que j'ai pu trouver en ligne.
+
+![Charles-84's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Charles-84&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=30,B58524,F5B532)
