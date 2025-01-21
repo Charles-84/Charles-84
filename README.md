@@ -9,11 +9,11 @@ This repository showcases several Python projects I've embarked on to automate t
 
 ## 📚 List of My Projects
 
-### 🐋 Whales-Alert.fr
+### 🐋 Whale-Alerts.net
 
-- **Description**: Dive into **Whales-Alert.fr**, your vigilant lookout for cryptocurrency market movements! Specializing in the analysis of blockchain transactions with an eye for low market cap cryptos, we're in the alpha phase, gearing up to unveil our insights to the world.
+- **Description**: Dive into **Whale-Alerts.net**, your vigilant lookout for cryptocurrency market movements! Specializing in the analysis of blockchain transactions with an eye for low market cap cryptos, we're in the alpha phase, gearing up to unveil our insights to the world.
   
-- **Link**: [Whales-Alert.fr](https://github.com/Charles-84/WhalesAlert_Site)
+- **Link**: [Whale-Alerts.net](https://github.com/Charles-84/WhalesAlert_Site)
 
   - **Features**:
     - 📈 Transaction Analysis
